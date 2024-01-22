@@ -13,3 +13,9 @@ td {
 table {
 	margin-top: 50px;
 }
+
+input {
+    background-color: white;
+    color: black;
+}
+
